@@ -8,4 +8,4 @@
 - [Unsplash Images](https://unsplash.com)
 - [Random UserImages](https://randomuser.me)
 -[Animate On Scroll - michaelsnik](https://michalsnik.github.io/aos/)
-- [Google - Loading Third Party Script](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript)
+- [Async-Defer Visualized](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript#use_async_or_defer)
